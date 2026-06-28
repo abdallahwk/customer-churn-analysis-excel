@@ -108,7 +108,7 @@ The dataset contains customer demographic information, subscription details, cus
 
 customer-churn-analysis-dashboard/
 
-│── Customer Churn Analysis Dashboard.xlsx
+https://docs.google.com/spreadsheets/d/1j2N_SUJQgtvVrESOIWIr_fNZFBxatmI0/edit?usp=drive_link&ouid=108938352199267731204&rtpof=true&sd=true
 
 │── Dashboard.png
 
